@@ -1,0 +1,21 @@
+ID: D001
+NOM: Genie Electrique
+FACULTE_ID: F002
+
+---
+
+ID: D002
+NOM: Electronique
+FACULTE_ID: F002
+
+---
+
+ID: D003
+NOM: Automatique
+FACULTE_ID: F002
+
+---
+
+ID: D004
+NOM: Informatique Industrielle
+FACULTE_ID: F002

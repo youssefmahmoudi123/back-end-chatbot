@@ -1,0 +1,13 @@
+ID: U001
+NOM: Ecole Nationale d'Ingenieurs de Sfax (ENIS)
+VILLE: Sfax
+PAYS: Tunisie
+ADRESSE: Route de Soukra km 3
+
+---
+
+ID: U002
+NOM: Institut Superieur des Etudes Technologiques de Sfax (ISET Sfax)
+VILLE: Sfax
+PAYS: Tunisie
+ADRESSE: Cite El Onnen

@@ -1,0 +1,15 @@
+ID: E001
+NOM: Exemple
+PRENOM: Etudiant
+EMAIL: etudiant.exemple@example.com
+NIVEAU: GE1
+SPECIALITE: Genie Electrique
+
+---
+
+ID: E002
+NOM: Demo
+PRENOM: Etudiante
+EMAIL: demo.etudiante@example.com
+NIVEAU: GE2
+SPECIALITE: Electronique

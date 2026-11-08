@@ -1,0 +1,67 @@
+ID: M001
+NOM: Circuits Electriques
+SPECIALITE_ID: S001
+COEFFICIENT: 3
+
+---
+
+ID: M002
+NOM: Electrotechnique
+SPECIALITE_ID: S005
+COEFFICIENT: 3
+
+---
+
+ID: M003
+NOM: Electronique Analogique
+SPECIALITE_ID: S002
+COEFFICIENT: 3
+
+---
+
+ID: M004
+NOM: Electronique Numerique
+SPECIALITE_ID: S002
+COEFFICIENT: 2
+
+---
+
+ID: M005
+NOM: Automatique
+SPECIALITE_ID: S003
+COEFFICIENT: 3
+
+---
+
+ID: M006
+NOM: Machines Electriques
+SPECIALITE_ID: S005
+COEFFICIENT: 4
+
+---
+
+ID: M007
+NOM: Electronique de Puissance
+SPECIALITE_ID: S001
+COEFFICIENT: 3
+
+---
+
+ID: M008
+NOM: Reseaux Electriques
+SPECIALITE_ID: S001
+COEFFICIENT: 3
+
+---
+
+ID: M009
+NOM: Programmation C++
+SPECIALITE_ID: S004
+COEFFICIENT: 2
+
+---
+
+ID: M010
+NOM: Systemes Embarques
+SPECIALITE_ID: S004
+COEFFICIENT: 3

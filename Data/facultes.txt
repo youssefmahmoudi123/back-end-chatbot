@@ -1,0 +1,21 @@
+ID: F001
+NOM: Faculte des Sciences et Techniques
+UNIVERSITE_ID: U001
+
+---
+
+ID: F002
+NOM: Faculte de Genie Electrique
+UNIVERSITE_ID: U001
+
+---
+
+ID: F003
+NOM: Institut Superieur de Technologie
+UNIVERSITE_ID: U002
+
+---
+
+ID: F004
+NOM: Faculte des Sciences de Sfax
+UNIVERSITE_ID: U002

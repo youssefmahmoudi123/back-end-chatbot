@@ -1,0 +1,32 @@
+ID: S001
+NOM: Genie Electrique
+DEPARTEMENT_ID: D001
+DESCRIPTION: Systemes electriques et installations industrielles
+
+---
+
+ID: S002
+NOM: Electronique
+DEPARTEMENT_ID: D002
+DESCRIPTION: Circuits analogiques et numeriques
+
+---
+
+ID: S003
+NOM: Automatique et Controle
+DEPARTEMENT_ID: D003
+DESCRIPTION: Regulation et automatisation
+
+---
+
+ID: S004
+NOM: Informatique Industrielle
+DEPARTEMENT_ID: D004
+DESCRIPTION: Systemes embarques et automates
+
+---
+
+ID: S005
+NOM: Electrotechnique
+DEPARTEMENT_ID: D001
+DESCRIPTION: Machines tournantes et installations haute tension

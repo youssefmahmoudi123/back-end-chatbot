@@ -1,0 +1,91 @@
+ID: C001
+QUESTION: Bonjour
+MOTS_CLES: bonjour, salut, hello, coucou
+REPONSE: Bonjour ! Je suis ElecBrain, votre chatbot éducatif spécialisé en programmation et en génie électrique. Comment puis-je vous aider ?
+CATEGORIE: General
+
+---
+
+ID: C002
+QUESTION: Comment s'appelle ce chatbot ?
+MOTS_CLES: nom chatbot, nom, comment s'appelle, identite
+REPONSE: Ce chatbot s'appelle ElecBrain. Il aide les étudiants à comprendre la programmation et les concepts fondamentaux du génie électrique.
+CATEGORIE: General
+
+---
+
+ID: C003
+QUESTION: Qu'est-ce que la programmation ?
+MOTS_CLES: programmation, programmer, code, algorithme
+REPONSE: La programmation consiste à écrire des instructions qu'un ordinateur peut exécuter pour résoudre un problème ou réaliser une tâche. Elle utilise des langages, des algorithmes, des variables, des conditions et des fonctions.
+CATEGORIE: Programmation
+
+---
+
+ID: C004
+QUESTION: Quel langage de programmation est utilisé pour développer ce chatbot ?
+MOTS_CLES: langage programmation chatbot, langage utilise, C++, cpp, programmation C++
+REPONSE: ElecBrain est développé en C++. C++ est un langage compilé, performant et adapté aux applications nécessitant une bonne efficacité, comme les services réseau et les systèmes techniques.
+CATEGORIE: Programmation
+
+---
+
+ID: C005
+QUESTION: Qu'est-ce que le génie électrique ?
+MOTS_CLES: genie electrique, definition genie electrique, electricite
+REPONSE: Le génie électrique est une discipline de l'ingénierie qui étudie la production, le transport, la distribution et l'utilisation de l'énergie électrique. Il comprend également l'électronique, l'automatique et les systèmes électriques.
+CATEGORIE: Genie Electrique
+
+---
+
+ID: C006
+QUESTION: Quelles sont les spécialités du génie électrique ?
+MOTS_CLES: specialites genie electrique, filieres, branches, AII, EI, systemes embarques, electrotechnique, electronique, energies renouvelables
+REPONSE: Les principales spécialités sont l'Automatique et informatique industrielle (AII), qui concerne la commande des systèmes ; l'Électronique industrielle (EI), qui étudie les équipements électroniques de puissance ; les Systèmes embarqués, qui associent matériel et logiciel dans des appareils dédiés ; l'Électrotechnique, consacrée aux machines et installations électriques ; l'Électronique, consacrée aux circuits et aux signaux ; et les Énergies renouvelables, qui exploitent notamment le soleil et le vent.
+CATEGORIE: Genie Electrique
+
+---
+
+ID: C007
+QUESTION: Qu'est-ce qu'un circuit électrique ?
+MOTS_CLES: circuit electrique, circuit, courant, tension, composants
+REPONSE: Un circuit électrique est un ensemble de composants reliés par des conducteurs afin de permettre la circulation du courant. Il peut contenir une source, des résistances, des interrupteurs et d'autres composants électriques.
+CATEGORIE: Genie Electrique
+
+---
+
+ID: C008
+QUESTION: Qu'est-ce que la loi d'Ohm ?
+MOTS_CLES: loi d'ohm, ohm, tension, courant, resistance, U=RI
+REPONSE: La loi d'Ohm décrit la relation entre la tension U, la résistance R et le courant I dans un circuit résistif. Sa formule est U = R × I, avec U en volts, R en ohms et I en ampères.
+CATEGORIE: Genie Electrique
+
+---
+
+ID: C009
+QUESTION: Qu'est-ce qu'un transformateur électrique ?
+MOTS_CLES: transformateur, transformateur electrique, tension, induction
+REPONSE: Un transformateur électrique est une machine statique qui augmente ou diminue une tension alternative. Il fonctionne grâce à l'induction électromagnétique et conserve généralement la même fréquence.
+CATEGORIE: Genie Electrique
+
+---
+
+ID: C010
+QUESTION: Qu'est-ce qu'un moteur électrique ?
+MOTS_CLES: moteur electrique, moteur, machine electrique, energie mecanique
+REPONSE: Un moteur électrique transforme l'énergie électrique en énergie mécanique, généralement sous forme de rotation. Son fonctionnement repose sur l'interaction entre un champ magnétique et un courant électrique.
+CATEGORIE: Genie Electrique
+
+---
+ID: C011
+QUESTION: Qui a développé ElecBrain ?
+MOTS_CLES: developpeur, createur, qui a developpe, auteur, Islem Benhaha
+REPONSE: ElecBrain a été développé par Islem Benhaha, étudiant en deuxième année de génie électrique.
+CATEGORIE: General
+
+---
+ID: C012
+QUESTION: Qui est le professeur responsable ?
+MOTS_CLES: professeur, enseignante, responsable, encadrante, Najla Krichen
+REPONSE: Le professeur responsable est Najla Krichen.
+CATEGORIE: General
